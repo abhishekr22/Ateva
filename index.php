@@ -1,0 +1,10 @@
+<?php include_once(login.html) ?>
+<?php include_once(login-style.css) ?>
+<?php include_once(signup.html) ?>
+<?php include_once(signup2.html) ?>
+<?php include_once(signup-style.css) ?>
+<?php include_once(vizag.jpg) ?>
+<?php include_once(vizag1.jpg) ?>
+<?php include_once(lol.jpg) ?>
+<?php include_once(lolo.jpg) ?>
+<?php include_once(background.jpg) ?>
